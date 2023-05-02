@@ -9,8 +9,14 @@ app.use(cors())
 app.get('/', (req, res) => {
   res.send('Chef Recipe Hunter Server is Running...')
 })
+
 app.get('/chef', (req, res) => {
   res.send(chef_data);
+})
+app.get("/chef/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chef_data.find((n) => n.id == id);
+  res.send(selectedChef);
 })
 
 app.listen(port, () => {
