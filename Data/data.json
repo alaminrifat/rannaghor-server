@@ -1,0 +1,411 @@
+[
+    {
+        "id": 1,
+        "name": "Chef Rina",
+        "years_of_experience": 12,
+        "bio": "Chef Rina has been cooking Bengali food professionally for over 12 years. She is passionate about preserving traditional Bengali cooking techniques and flavors.",
+        "chef_pic_url": "https://i.ibb.co/f1y2FHf/female5.png",
+        "likes": 800,
+        "recipes": [
+            {
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "mustard oil",
+                    "cumin",
+                    "turmeric",
+                    "ginger",
+                    "garlic",
+                    "green chili",
+                    "onion",
+                    "salt"
+                ],
+                "cooking_method": "Heat mustard oil in a pan, add cumin seeds and let them splutter. Add ginger, garlic, and green chili, saute for a minute. Add chopped onion and cook till it turns golden brown. Add prawns, turmeric, salt, and cook for 5-6 minutes. Add coconut milk, let it simmer for a couple of minutes. Garnish with coriander leaves and serve hot.",
+                "ratings": 4.1,
+                "meal_pic_url": "https://i.ibb.co/L9G2zC7/chingri-malai.jpg"
+            },
+            {
+                "name": "Kosha Mangsho",
+                "ingredients": [
+                    "mutton",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "tomato",
+                    "red chili powder",
+                    "cumin powder",
+                    "coriander powder",
+                    "garam masala powder",
+                    "salt",
+                    "oil"
+                ],
+                "cooking_method": "Heat oil in a pressure cooker. Add chopped onions, ginger, and garlic, and saute for 2-3 minutes. Add mutton, turmeric, and salt, and cook for 15-20 minutes. Add chopped tomatoes, red chili powder, cumin powder, coriander powder, and garam masala powder, and cook till the oil separates. Add water, cover the pressure cooker, and cook for 4-5 whistles. Let the pressure release, garnish with coriander leaves, and serve hot.",
+                "ratings": 4.5,
+                "meal_pic_url": "https://i.ibb.co/nb14cwM/koshamangso.jpg"
+            },
+            {
+                "name": "Bhapa Ilish",
+                "ingredients": [
+                    "hilsa fish",
+                    "mustard paste",
+                    "poppy seeds",
+                    "coconut",
+                    "green chili",
+                    "salt",
+                    "turmeric",
+                    "mustard oil"
+                ],
+                "cooking_method": "Marinate hilsa fish with salt and turmeric. Mix mustard paste, poppy seeds, grated coconut, green chili, and salt. Apply the mixture to the fish. Place the fish in a steamer, and steam for 20-25 minutes. Heat mustard oil in a pan, add green chili and pour it over the fish. Serve hot.",
+                "ratings": 4.5,
+                "meal_pic_url": "https://i.ibb.co/mbcGXCL/Shorshe-ilish.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Riya Ahmed",
+        "years_of_experience": 8,
+        "bio": "Chef Riya specializes in traditional Bengali cuisine. With eight years of experience, she has perfected recipes passed down through generations of her family.",
+        "chef_pic_url": "https://i.ibb.co/5YpMtLK/female4.png",
+        "likes": 250,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "hilsa fish",
+                    "mustard paste",
+                    "green chillies",
+                    "turmeric",
+                    "salt",
+                    "mustard oil"
+                ],
+                "cooking_method": "Marinate the fish with salt and turmeric. Heat mustard oil in a pan and fry the fish until golden brown. In a separate pan, heat mustard oil and add the green chillies and mustard paste. Cook for a few minutes and add water to create a sauce. Add the fried fish to the sauce and cook for a few more minutes.",
+                "ratings": 4.7,
+                "meal_pic_url": "https://i.ibb.co/mbcGXCL/Shorshe-ilish.jpg"
+            },
+            {
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "ginger",
+                    "garlic",
+                    "green chillies",
+                    "turmeric",
+                    "cumin",
+                    "coriander",
+                    "bay leaves",
+                    "mustard oil",
+                    "salt"
+                ],
+                "cooking_method": "Marinate the prawns with salt and turmeric. Heat mustard oil in a pan and fry the prawns until golden brown. In the same pan, add ginger, garlic, green chillies, and bay leaves. Add coconut milk and let it simmer for a few minutes. Add the fried prawns and cook for a few more minutes. Sprinkle cumin and coriander on top before serving.",
+                "ratings": 4.8,
+                "meal_pic_url": "https://i.ibb.co/L9G2zC7/chingri-malai.jpg"
+            },
+            {
+                "name": "Kosha Mangsho",
+                "ingredients": [
+                    "mutton",
+                    "yogurt",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "green chillies",
+                    "turmeric",
+                    "cumin",
+                    "coriander",
+                    "garam masala",
+                    "bay leaves",
+                    "oil",
+                    "salt"
+                ],
+                "cooking_method": "Heat oil in a pan and add the bay leaves, cumin, and coriander. Add onions and cook until golden brown. Add ginger, garlic, and green chillies and cook for a few minutes. Add yogurt, salt, and turmeric and cook until the mixture becomes a thick paste. Add mutton and cook on low heat for an hour or until the meat is tender. Sprinkle garam masala on top before serving.",
+                "ratings": 4.6,
+                "meal_pic_url": "https://i.ibb.co/nb14cwM/koshamangso.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chef Jhankar Mithun ",
+        "years_of_experience": 12,
+        "bio": "Chef Mithun is a Bengali cuisine expert with over 12 years of experience. He loves to use traditional Bengali spices and techniques to create dishes that are both flavorful and authentic.",
+        "chef_pic_url": "https://i.ibb.co/WHGKpRc/male1.png",
+        "likes": 800,
+        "recipes": [
+            {
+                "name": "Kacchi Biriyani",
+                "ingredients": [
+                    "basmati rice",
+                    "mutton",
+                    "potato",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "yogurt",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "saffron",
+                    "milk"
+                ],
+                "cooking_method": "Marinate the mutton in yogurt, ginger, garlic, and spices for at least 6 hours. Fry the potatoes and onion until golden brown. Layer the marinated mutton, fried potatoes and onion, and rice in a pot, and add saffron and milk. Cook over low heat until the rice and mutton are fully cooked.",
+                "ratings": 4.8,
+                "meal_pic_url": "https://i.ibb.co/9nfp7yX/Kacchi-Biryani.jpg"
+            },
+            {
+                "name": "Morog Polao",
+                "ingredients": [
+                    "basmati rice",
+                    "chicken",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "yogurt",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "nutmeg",
+                    "raisins",
+                    "cashews"
+                ],
+                "cooking_method": "Marinate the chicken in yogurt, ginger, garlic, and spices for at least 6 hours. Fry the onions until golden brown. Layer the marinated chicken, fried onions, rice, and dry fruits in a pot. Cook over low heat until the rice and chicken are fully cooked.",
+                "ratings": 4.7,
+                "meal_pic_url": "https://i.ibb.co/LtdbQJH/morog-polao-jali-kabab.jpg"
+            },
+            {
+                "name": "Kosha Mangsho",
+                "ingredients": [
+                    "mutton",
+                    "yogurt",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "green chillies",
+                    "turmeric",
+                    "cumin",
+                    "coriander",
+                    "garam masala",
+                    "bay leaves",
+                    "oil",
+                    "salt"
+                ],
+                "cooking_method": "Heat oil in a pan and add the bay leaves, cumin, and coriander. Add onions and cook until golden brown. Add ginger, garlic, and green chillies and cook for a few minutes. Add yogurt, salt, and turmeric and cook until the mixture becomes a thick paste. Add mutton and cook on low heat for an hour or until the meat is tender. Sprinkle garam masala on top before serving.",
+                "ratings": 4.6,
+                "meal_pic_url": "https://i.ibb.co/nb14cwM/koshamangso.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Chef Ruma",
+        "years_of_experience": 8,
+        "bio": "Chef Farhana is a passionate chef who loves to create dishes that are both delicious and healthy. She specializes in traditional Bengali cuisine and uses only the freshest ingredients to create her dishes.",
+        "chef_pic_url": "https://i.ibb.co/5YpMtLK/female4.png",
+        "likes": 1200,
+        "recipes": [
+            {
+                "name": "Biriyani",
+                "ingredients": [
+                    "basmati rice",
+                    "mutton",
+                    "potato",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "yogurt",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "saffron",
+                    "milk"
+                ],
+                "cooking_method": "Marinate the mutton in yogurt, ginger, garlic, and spices for at least 6 hours. Fry the potatoes and onion until golden brown. Layer the marinated mutton, fried potatoes and onion, and rice in a pot, and add saffron and milk. Cook over low heat until the rice and mutton are fully cooked.",
+                "ratings": 4.8,
+                "meal_pic_url": "https://i.ibb.co/m0kHRWd/biriyani.jpg"
+            },
+            {
+                "name": "Rui Macher Jhol",
+                "ingredients": [
+                    "Rohu fish",
+                    "potato",
+                    "tomato",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "turmeric",
+                    "cumin",
+                    "coriander",
+                    "oil",
+                    "salt"
+                ],
+                "cooking_method": "Heat oil in a pan and fry onion, garlic, ginger, and green chili. Add tomato and spices, and cook for a few minutes. Add water and bring to a boil. Add fish and potatoes, and cook until they are fully cooked. Serve hot with rice.",
+                "ratings": 4.5,
+                "meal_pic_url": "https://i.ibb.co/HNPWdMZ/rui-mach.jpg"
+            },
+            {
+                "name": "Chingri Malai Curry",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "mustard oil",
+                    "cumin",
+                    "turmeric",
+                    "ginger",
+                    "garlic",
+                    "green chili",
+                    "onion",
+                    "salt"
+                ],
+                "cooking_method": "Heat mustard oil in a pan, add cumin seeds and let them splutter. Add ginger, garlic, and green chili, saute for a minute. Add chopped onion and cook till it turns golden brown. Add prawns, turmeric, salt, and cook for 5-6 minutes. Add coconut milk, let it simmer for a couple of minutes. Garnish with coriander leaves and serve hot.",
+                "ratings": 4.5,
+                "meal_pic_url": "https://i.ibb.co/L9G2zC7/chingri-malai.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Chef Farhana Rahman",
+        "years_of_experience": 8,
+        "bio": "Chef Ruma is a Bengali cuisine expert with a passion for creating healthy and delicious dishes. She likes to use fresh, seasonal ingredients to make traditional Bengali recipes that are both nutritious and flavorful.",
+        "chef_pic_url": "https://i.ibb.co/5YpMtLK/female3.png",
+        "likes": 1800,
+        "recipes": [
+            {
+                "name": "Teheri",
+                "ingredients": [
+                    "basmati rice",
+                    "potato",
+                    "peas",
+                    "carrots",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "green chili",
+                    "cumin",
+                    "coriander",
+                    "turmeric",
+                    "oil",
+                    "salt"
+                ],
+                "cooking_method": "Heat oil in a pan and fry onion, garlic, ginger, and green chili. Add vegetables and spices, and cook for a few minutes. Add rice and water, and bring to a boil. Reduce heat and cook until the rice is fully cooked. Serve hot.",
+                "ratings": 4.3,
+                "meal_pic_url": "https://i.ibb.co/G0z5NQw/teheri.jpg"
+            },
+            {
+                "name": "Biriyani",
+                "ingredients": [
+                    "basmati rice",
+                    "mutton",
+                    "potato",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "yogurt",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "saffron",
+                    "milk"
+                ],
+                "cooking_method": "Marinate the mutton in yogurt, ginger, garlic, and spices for at least 6 hours. Fry the potatoes and onion until golden brown. Layer the marinated mutton, fried potatoes and onion, and rice in a pot, and add saffron and milk. Cook over low heat until the rice and mutton are fully cooked.",
+                "ratings": 4.8,
+                "meal_pic_url": "https://i.ibb.co/m0kHRWd/biriyani.jpg"
+            },
+            {
+                "name": "Kacchi Biriyani",
+                "ingredients": [
+                    "basmati rice",
+                    "mutton",
+                    "potato",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "yogurt",
+                    "bay leaves",
+                    "cinnamon",
+                    "cardamom",
+                    "cloves",
+                    "saffron",
+                    "milk"
+                ],
+                "cooking_method": "Marinate the mutton in yogurt, ginger, garlic, and spices for at least 6 hours. Fry the potatoes and onion until golden brown. Layer the marinated mutton, fried potatoes and onion, and rice in a pot, and add saffron and milk. Cook over low heat until the rice and mutton are fully cooked.",
+                "ratings": 4.8,
+                "meal_pic_url": "https://i.ibb.co/9nfp7yX/Kacchi-Biryani.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Chef Hasan Bhuiyan",
+        "years_of_experience": 12,
+        "bio": "Chef Hasan specializes in traditional Bengali cuisine, with a focus on fresh ingredients and bold flavors.",
+        "chef_pic_url": "https://i.ibb.co/LPXNWLh/male2.png",
+        "likes": 800,
+        "recipes": [
+            {
+                "name": "Rui Macher Jhol",
+                "ingredients": [
+                    "rohu fish",
+                    "potato",
+                    "tomato",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "turmeric",
+                    "cumin",
+                    "coriander",
+                    "green chili",
+                    "mustard oil",
+                    "salt"
+                ],
+                "cooking_method": "Heat mustard oil in a pan and fry the potatoes until golden brown. Add sliced onions, ginger, and garlic and sauté until the onions are translucent. Add turmeric, cumin, coriander, and green chili and fry for a minute. Add diced tomatoes and cook until the tomatoes are soft. Add fish pieces, salt and enough water to cover the fish. Cook until the fish is done. Serve hot with rice.",
+                "ratings": 4.6,
+                "meal_pic_url": "https://i.ibb.co/HNPWdMZ/rui-mach.jpg"
+            },
+            {
+                "name": "Alu Vorta",
+                "ingredients": [
+                    "potatoes",
+                    "onion",
+                    "green chili",
+                    "mustard oil",
+                    "salt"
+                ],
+                "cooking_method": "Boil potatoes until they are soft. Mash them with a fork or potato masher. Add chopped onions, green chili, mustard oil, and salt. Mix well and serve with rice or flatbread.",
+                "ratings": 4.2,
+                "meal_pic_url": "https://i.ibb.co/LJMP6H2/Aloo-Bhorta-desh-catering-service-provider-company-dhaka.jpg"
+            },
+            {
+                "name": "Teheri",
+                "ingredients": [
+                    "basmati rice",
+                    "potatoes",
+                    "carrots",
+                    "peas",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "cumin",
+                    "coriander",
+                    "turmeric",
+                    "cinnamon",
+                    "bay leaves",
+                    "cardamom",
+                    "cloves",
+                    "ghee",
+                    "salt"
+                ],
+                "cooking_method": "Soak rice in water for 20 minutes. Heat ghee in a pan and add cumin, coriander, cinnamon, bay leaves, cardamom, and cloves. Fry until fragrant. Add sliced onions, ginger, and garlic and fry until the onions are translucent. Add chopped vegetables and fry for a few minutes. Add soaked rice, turmeric, and salt, and fry for a few more minutes. Add water and bring to a boil. Lower the heat and cook until the rice is done. Serve hot.",
+                "ratings": 4.4,
+                "meal_pic_url": "https://i.ibb.co/G0z5NQw/teheri.jpg"
+            }
+        ]
+    }
+]
